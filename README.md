@@ -1,6 +1,4 @@
 
-
-
 # Movie Recommendation System
 
 Welcome to the Movie Recommendation System repository! This project implements a movie recommendation system using content-based filtering. It suggests movies similar to a user-selected movie based on their genres and plot descriptions.
@@ -73,7 +71,6 @@ Large files such as the similarity matrix are not included in the repository due
 - Incorporate collaborative filtering for personalized recommendations.
 - Scale the system for larger datasets using distributed computing frameworks like Apache Spark.
 
-## Contributors
 
 - Saniya-fatima
 
