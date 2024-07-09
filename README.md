@@ -2,6 +2,7 @@
 # Movie Recommendation System
 
 Welcome to the Movie Recommendation System repository! This project implements a movie recommendation system using content-based filtering. It suggests movies similar to a user-selected movie based on their genres and plot descriptions.
+![Screenshot 2024-07-04 002310](https://github.com/Saniya-fatima/Movie-Recommendation-System/assets/122198174/4c6bdcbe-f021-4347-9d35-a0128f7df079)
 
 ## Introduction
 
