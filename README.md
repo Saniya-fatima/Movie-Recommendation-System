@@ -71,8 +71,8 @@ Large files such as the similarity matrix are not included in the repository due
 - Incorporate collaborative filtering for personalized recommendations.
 - Scale the system for larger datasets using distributed computing frameworks like Apache Spark.
 
-
+## Contributors
 - Saniya-fatima
 
-## License
+
 
